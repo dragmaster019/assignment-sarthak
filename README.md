@@ -1,8 +1,17 @@
 
-# Talk-A-Tive
+# Assignment LiaPlus
 
-Talk-a-tive is a Full Stack Chatting App.
-Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+
+
+Features-
+
+User login (can be a basic login without authentication).
+- Real-time messaging.
+- Display of chat history.
+- A responsive design for mobile and desktop views.
+-Added typing indicators and user online status.
+
+
 ## Tech Stack
 
 **Client:** React JS
